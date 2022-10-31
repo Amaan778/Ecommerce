@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_add_student.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_attendence_month.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_attendence_track.xml" value="0.24817518248175183" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_fetch_report.xml" value="0.24817518248175183" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_generate_report.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_report_fetch.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_saving_attendence.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_student_report.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_studentlist.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_studentsect.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_subjectlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_subjectlist_track.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_teacher_dashboard.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_teacher_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_teacherl_login.xml" value="0.24817518248175183" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/activity_track.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/date.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/report.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/savingatte.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amaan/AndroidStudioProjects/AttendenceTrackker/app/src/main/res/layout/studentlistadap.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

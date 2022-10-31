@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "584452186429",
+    "firebase_url": "https://attendencetrackker-default-rtdb.firebaseio.com",
+    "project_id": "attendencetrackker",
+    "storage_bucket": "attendencetrackker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584452186429:android:f8fe06db6d0670567f2554",
+        "android_client_info": {
+          "package_name": "com.example.attendencetrackker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584452186429-uod4v117ukdv2h64atg3fbc2pod47uih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7tGQwgzEMgW-VaDQ-fFwUfuOvB9jzlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584452186429-uod4v117ukdv2h64atg3fbc2pod47uih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584452186429:android:20896b65224fee077f2554",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584452186429-uod4v117ukdv2h64atg3fbc2pod47uih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7tGQwgzEMgW-VaDQ-fFwUfuOvB9jzlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584452186429-uod4v117ukdv2h64atg3fbc2pod47uih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

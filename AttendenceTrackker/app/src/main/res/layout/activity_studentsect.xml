@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Studentsect">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subjects"
+        android:textSize="39dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linux Server Administration"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:id="@+id/linux"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Software Testing"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:id="@+id/Software"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Information &amp; network sec."
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:id="@+id/ins"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Architecting of Iot"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:id="@+id/iot"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Game Programming"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:id="@+id/game"/>
+
+</LinearLayout>
